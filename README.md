@@ -1,4 +1,13 @@
-### Hi there 👋
+# About Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40phil--cd-239a3b.svg)](https://github.com/phil-cd)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/philipp-dolif/)
+
+Hi, I am Philipp. I am a computer science master student at RWTH Aachen University (Germany) and contributor to many cool open source projects:
+
+- [**API Testing Bot**](https://github.com/rwth-acis/api-testing-bot) - As part of my master thesis I developed a (chat-) bot for modeling REST API test cases. It can be used within GitHub issue and pull request comments to create test cases. Using OpenAI's Codex model, the bot is able to understand natural language test descriptions. Java code can be generated for the modeled test cases.
+- [**las2peer**](https://github.com/rwth-acis/las2peer) - As a [@rwth-acis](https://github.com/rwth-acis) member I contributed to las2peer, a Java-based decentralized framework for distributing community services in a peer-to-peer infrastructure. The framework was migrated from Java 8 to 17 and an automated build with GitHub Actions & Gradle was introduced.
+- [**CAE**](https://github.com/rwth-acis/CAE) - During my bachelor thesis I started contributing to the Community Application Editor (CAE). It is a web-based collaborative model-driven editor for community web applications. Among other things, I have extended the CAE with a versioning system for the models that are used to describe the web applications. A demo video I made is available on [YouTube](https://www.youtube.com/watch?v=wRmnvzFK6aY).
 
 <!--
 **phil-cd/phil-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
