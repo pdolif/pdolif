@@ -1,6 +1,6 @@
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40phil--cd-239a3b.svg)](https://github.com/phil-cd)
+[![GitHub](https://img.shields.io/badge/GitHub-%40pdolif-239a3b.svg)](https://github.com/pdolif)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/philipp-dolif/)
 
 Hi, I am Philipp. I am a computer science master graduate from RWTH Aachen University (Germany) and contributor to many cool open source projects:
